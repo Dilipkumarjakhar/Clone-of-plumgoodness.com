@@ -8,5 +8,6 @@
        3 ->  "Sorting and filtering products",
         <br>
       4->  "Homepage carousel",</p>
+      5->  "Payment page",</p>
 <div><img src="https://user-images.githubusercontent.com/93373467/153695435-93f695f4-c0e6-492d-95e3-7c8ff044310c.png"></img></div>
 
